@@ -9,7 +9,7 @@
   },
   "description": {
     "default": "Copy chrome-a4 theme",
-    "zh_CN": "以hrome-a4主题为基础，修改部分样式，添加夜间模式的主题。"
+    "zh_CN": "以chrome-a4主题为基础，修改部分样式，添加夜间模式的主题。"
   },
   "modes": [
     "light",
