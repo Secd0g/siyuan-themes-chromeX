@@ -184,8 +184,8 @@
 /*菜单*/
 .b3-menu__item{padding:0 16px;border-radius:0px !important}
 .b3-menu__items{padding:0px;overflow-x:hidden}
-.protyle-hint{background-color:#f3f5f7}
-.protyle-hint .b3-list-item--focus,.protyle-hint .b3-list-item:hover:not(.b3-list-item--focus) {background-color: #dee1e6 !important;}
+.protyle-hint{background-color:#212121}
+.protyle-hint .b3-list-item--focus,.protyle-hint .b3-list-item:hover:not(.b3-list-item--focus) {background-color: #4a4a4d !important;}
 .b3-menu__separator{margin-left:10px;width:calc(100% - 20px);background-color:#f2f3f4}
 /*对话框*/
 
