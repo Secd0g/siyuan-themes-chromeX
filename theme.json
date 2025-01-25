@@ -2,14 +2,14 @@
   "name": "chromeX",
   "author": "F0rmat",
   "url": "https://github.com/Secd0g",
-  "version": "1.0.0",
+  "version": "1.3.3",
   "displayName": {
     "default": "chromeX",
     "zh_CN": "chromeX"
   },
   "description": {
     "default": "Copy chrome-a4 theme",
-    "zh_CN": "以chrome-a4主题为基础，修改部分样式，添加夜间模式的主题。"
+    "zh_CN": "以hrome-a4主题为基础，修改部分样式，添加夜间模式的主题。"
   },
   "modes": [
     "light",
