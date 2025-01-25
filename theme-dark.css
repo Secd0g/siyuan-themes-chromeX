@@ -3,7 +3,7 @@
     --b3-theme-primary:rgb(129, 162, 253);
     --b3-theme-primary-light: rgba(53, 117, 240, 0.54);
     --b3-theme-primary-lighter: rgba(53, 117, 240, 0.38);
-    --b3-theme-primary-lightest:#4c50591f;
+    --b3-theme-primary-lightest:#404045;
     --b3-theme-secondary: #f3a92f;
     --b3-theme-background: #212121;
     --b3-theme-background-light: #292A2D;
@@ -185,7 +185,7 @@
 .b3-menu__item{padding:0 16px;border-radius:0px !important}
 .b3-menu__items{padding:0px;overflow-x:hidden}
 .protyle-hint{background-color:#212121}
-.protyle-hint .b3-list-item--focus,.protyle-hint .b3-list-item:hover:not(.b3-list-item--focus) {background-color: #4a4a4d !important;}
+.protyle-hint .b3-list-item--focus,.protyle-hint .b3-list-item:hover:not(.b3-list-item--focus) {background-color: #404045 !important;}
 .b3-menu__separator{margin-left:10px;width:calc(100% - 20px);background-color:#f2f3f4}
 /*对话框*/
 
