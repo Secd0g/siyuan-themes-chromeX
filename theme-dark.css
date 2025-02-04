@@ -93,7 +93,7 @@
     --b3-font-background2: var(--b3-card-warning-background);
     --b3-font-background3: var(--b3-card-info-background);
     --b3-font-background4: var(--b3-card-success-background);
-    --b3-font-background5: #e2e3e4;
+    --b3-font-background5: #4c5257;
     --b3-font-background6: #acd0fc;
     --b3-font-background7: #fdeed6;
     --b3-font-background8: #fae1cf;
@@ -149,7 +149,7 @@
     --b3-protyle-code-linenumber-hl: #b9d1f4;
 
     /* 所见即所得行内元素颜色 */
-    --b3-protyle-inline-strong-color: #fdf8f8;
+    --b3-protyle-inline-strong-color: inherit;
     --b3-protyle-inline-em-color: #202124;
     --b3-protyle-inline-s-color: #202124;
     --b3-protyle-inline-link-color: #4285f4;
